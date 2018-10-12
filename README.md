@@ -14,7 +14,7 @@ Using the vocab embedding matrix; where each word is represented by a 300-dimens
 Keras LSTM model:
 - Trained over 10 epochs (or more; where early stopping can be used to monitor the model performance).
 - Used the manhattan distance similarity metric.
-## Results
+## 5. Results
 This model achieves 80.67% validation accuracy, with a log-loss value of 0.416 when submitting to Kaggle.
 # Note
 This approach was developed using Google Colaboratory with GPU accelerator, synced with Google Drive for file integration.
