@@ -1,5 +1,5 @@
 # Quora Question Pairs
-A simple approach to the "Quora Question Pairs" [Kaggle competition](https://www.kaggle.com/c/quora-question-pairs) for detecting duplicate questions in QA platforms.
+A simple approach to the ["Quora Question Pairs"](https://www.kaggle.com/c/quora-question-pairs) Kaggle competition for detecting duplicate questions in QA platforms.
 # Elaboration
 ## 1. Datasets
 - Both training and test sets are provided by Kaggle.
